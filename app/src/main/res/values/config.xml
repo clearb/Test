@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <bool name="debug">true</bool>
+    <bool name="use_dev_server">true</bool>
+
+    <string name="server_domain_dev">192.168.1.132:9999</string>
+    <string name="server_domain_prod">192.168.1.132:9999</string>
+
+</resources>
